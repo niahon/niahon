@@ -1,5 +1,7 @@
 Hello, I'm niahon!
+<br>
 I'm a 22 year old trans woman currently studying web development and searching for a job in the area
+<br>
 Some of my hobbies include drawing, game development, and reading
 
 <!---
